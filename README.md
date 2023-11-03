@@ -3,6 +3,8 @@
 
 IINA:https://iina.io
 
+mpv:https://mpv.io/
+
 2.Windows系统上最好用的视频播放器
 
 PotPlayer:https://potplayer.daum.net
